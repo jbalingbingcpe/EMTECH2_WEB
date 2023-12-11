@@ -3,7 +3,8 @@ import cv2
 import numpy as np
 
 st.write("# Object Classification")
-st.write("Laptop, Refrigerator, Traffic Light, Bottle, Truck, and Train")
+st.write("#Laptop, Refrigerator, Traffic Light, Bottle, Truck, and Train")
+
 
 
 st.markdown("Final Exam: Model Deployment") 
