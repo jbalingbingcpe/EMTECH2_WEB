@@ -2,15 +2,17 @@ import streamlit as st
 import cv2
 import numpy as np
 
-st.write("# Object Detection using YOLOV3")
+st.write("# Object Classification")
 
 
-st.markdown("Final Exam: Model Deployment in the Cloud") 
-st.text("Emmanuel Villanueva")
-st.text("Michael Vincent R. Alcoseba")
-st.text("John Terah Saquitan")
+st.markdown("Final Exam: Model Deployment") 
+st.text("Jefferson Adano")
+st.text("Jayson Balingbing")
+st.text("Miguel Blanco")
+st.text("Ije Cabario")
+st.text("Justine Caborda")
 
-st.text("CPE 019-CPE32S2 - Emerging Technologies 2 in CpE")
+st.text("CPE 019-CPE32S1 - Emerging Technologies 2 in CpE")
 
 classes_file = 'coco.names'
 
